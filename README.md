@@ -6,7 +6,7 @@
 **Section** : 4<br/>
 **Username Github** : chakit-pragod<br/>
 
-<img src = https://github.com/chakit-pragod/Group7_SE/blob/main/media/.jpg width="300"><br/>
+<img src = https://github.com/chakit-pragod/Group7_SE/blob/main/media/.jpg width="300" alt=รูปภาพสมาชิก><br/>
 **ชื่อ-นามสกุล** : <br/>
 **รหัสนักศึกษา** : <br/>
 **Section** : <br/>
