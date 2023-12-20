@@ -12,11 +12,11 @@
 **Section** : 4<br/>
 **Username Github** :thanachaik<br/>
 
-<img src = https://github.com/chakit-pragod/Group7_SE/blob/main/media/.jpg width="300" alt=รูปภาพสมาชิก><br/>
-**ชื่อ-นามสกุล** : <br/>
-**รหัสนักศึกษา** : <br/>
-**Section** : <br/>
-**Username Github** :<br/>
+<img src = https://github.com/chakit-pragod/Group7_SE/blob/main/media/chayada.jpg width="300" alt=รูปภาพสมาชิก><br/>
+**ชื่อ-นามสกุล** : นางสาวชญาดา วิชัยโย <br/>
+**รหัสนักศึกษา** : 643020602-0<br/>
+**Section** : 4<br/>
+**Username Github** :chayada<br/>
 
 <img src = https://github.com/chakit-pragod/Group7_SE/blob/main/media/.jpg width="300" alt=รูปภาพสมาชิก><br/>
 **ชื่อ-นามสกุล** : <br/>
